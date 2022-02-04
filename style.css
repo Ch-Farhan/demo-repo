@@ -45,21 +45,166 @@ body{
 .nav_wrapper>ul>li{
     font-size: 14px;
     font-weight: 600;
-   
     display: inline;
-     padding-left: 21px;
-    }
+    padding-left: 21px;
+}
 .side_btn>.btn{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 0px;
+        color: white;
+        width: 192px;
+        height: 52px;
+        /* primary-color */
+        background: #23a6f0;
+        border-radius: 5px;
+}    
+ .heading{
+    position: absolute;
+    color: white;
+    top: 346px;
+    left: 305px;
+    font-weight: 600;
+    font-size: 58px;
+    line-height: 80px;
+}
+ .subheading{
+    position: absolute;
+    color: white;
+    top: 531px;
+    left: 305px;
+    /* font-weight: 600; */
+    font-size: 20px;     
+ }
+.getQuoteNowBtn>.btnQuote{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    top: 610px;
+    left: 305px;
+    width: 185px;
+    height: 52px;
+    /* primary-color */
+    background: #23a6f0;
+    border-radius: 35px;
+}
+.LearnMoreBtn>.btnLearnMore{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    top: 610px;
+    left: 505px;
+    width: 185px;
+    height: 52px;
+    /* primary-color */
+    /* background: #FFFFFF; */
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 35px;
+}
+.backgroundColorSignupWhite{
+    position: absolute;
+    top: 150px;
+    left: 1030px;
+    width: 355px;
+    height: 510px;
+    /* primary-color */
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.backgroundColorSignupWhite>.backgroundColorSignupWhiteBookAppointment{
+    position: absolute;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    /* color: white; */
+    top: 50px;
+    left: 60px;
+    width: 355px;
+    height: 610px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.backgroundColorSignupWhiteName{
+    position: absolute;
+    top: 120px;
+    left: 55px;
+    width: 355px;
+    height: 610px;
+    font-size: 20px;
+}
+.FullName{
+    position: absolute;
+    top: 148px;
+    left: 55px;
+    height: 610px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+.backgroundColorSignupWhiteEmailAddress{
+    position: absolute;
+    top: 190px;
+    left: 55px;
+    width: 355px;
+    height: 610px;
+    font-size: 20px;
+}
+.EmailAddressPlaceholder{
+    position: absolute;
+    top: 220px;
+    left: 55px;
+    height: 610px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+.backgroundColorSignupWhiteDepartement{
+    position: absolute;
+    top: 260px;
+    left: 55px;
+    width: 355px;
+    height: 610px;
+    font-size: 20px;
+}
+.DepartementPlaceholder{
+    position: absolute;
+    top: 290px;
+    left: 55px;
+    height: 610px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+.BookAppointmentTime{
+    position: absolute;
+    top: 330px;
+    left: 55px;
+    width: 355px;
+    height: 610px;
+    font-size: 20px;
+}
+.BookAppointmentTimePlaceholder{
+    position: absolute;
+    top: 360px;
+    left: 55px;
+    height: 610px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+.BookAppointmentbtn>.Appointbtn{
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     padding: 0px;
     color: white;
-    
-    width: 192px;
-    height: 52px;
-
+    margin-top: 410px;
+    margin-left: 55px;
+    width: 172px;
+    height: 42px;
     /* primary-color */
     background: #23a6f0;
     border-radius: 5px;
