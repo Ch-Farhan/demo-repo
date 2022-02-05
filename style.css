@@ -477,3 +477,183 @@ body{
     width: 100%;
     height: 1.4px;	
 }
+/* background Leading Medicine Stars */
+.bgLeadingMedicineStars{
+    background-color: #FAFAFA;			
+    position: absolute;
+    top: 100.3%;
+    left: 0%;			
+    width: 100%;
+    height: 800.4px;	
+}
+.LMHeading{
+    position: absolute;
+    color: black;
+    top: 120px;
+    left: 445px;
+    font: 15px Arial, sans-serif;
+    font-size: 120px;
+}
+.LMsubheading{
+    position: absolute;
+    color: #737373;
+    top: 270px;
+    left: 630px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.LMsubheading2{
+    position: absolute;
+    color: #737373;
+    top: 300px;
+    left: 530px;
+    line-height: 117%;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+/* Border1 */
+.bgWhiteStarsBorder1{
+    position: absolute;
+    top: 401px;
+    left: 260px;
+    width: 379px;
+    height: 244.01px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: #FFFFFF;
+    border: 2px solid #DEDEDE;
+    border-radius: 5px;
+}
+/* Stars1 */
+.stars1{
+    top: 38px;
+    left: 20px;    
+    width: 204.67px;
+    height: 33.67px;
+    background-image: url(assets/Stars1.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.slateHelpYou1{
+    position: absolute;
+    color: #737373;
+    top: 70px;
+    left: 30px;
+    line-height: 120%;
+    font: 15px Arial, sans-serif;
+    font-size: 20px;
+}
+/* Doctor 1 Img */
+.Dr1Img{
+    top: 144px;
+    left: 30px;    
+    width: 204.67px;
+    height: 203.67px;
+    background-image: url(assets/Dr1Img.JPG);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    position: relative;
+}
+/* Border2 */
+.bgWhiteStarsBorder2{
+    position: absolute;
+    top: 401px;
+    left: 660px;
+    width: 379px;
+    height: 244.01px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: #FFFFFF;
+    border: 2px solid #DEDEDE;
+    border-radius: 5px;
+}
+/* Stars2 */
+.stars2{
+    top: 38px;
+    left: 20px;    
+    width: 204.67px;
+    height: 33.67px;
+    background-image: url(assets/Stars2.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.slateHelpYou2{
+    position: absolute;
+    color: #737373;
+    top: 70px;
+    left: 30px;
+    line-height: 120%;
+    font: 15px Arial, sans-serif;
+    font-size: 20px;
+}
+/* Doctor 2 Img */
+.Dr2Img{
+    top: 144px;
+    left: 30px;    
+    width: 204.67px;
+    height: 203.67px;
+    background-image: url(assets/Dr2Img.JPG);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    position: relative;
+}
+/* Border3 */
+.bgWhiteStarsBorder3{
+    position: absolute;
+    top: 401px;
+    left: 1060px;
+    width: 379px;
+    height: 244.01px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: #FFFFFF;
+    border: 2px solid #DEDEDE;
+    border-radius: 5px;
+}
+/* Stars3 */
+.stars3{
+    top: 38px;
+    left: 20px;    
+    width: 204.67px;
+    height: 33.67px;
+    background-image: url(assets/Stars3.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.slateHelpYou3{
+    position: absolute;
+    color: #737373;
+    top: 70px;
+    left: 30px;
+    line-height: 120%;
+    font: 15px Arial, sans-serif;
+    font-size: 20px;
+}
+/* Doctor 3 Img */
+.Dr3Img{
+    top: 144px;
+    left: 30px;    
+    width: 204.67px;
+    height: 203.67px;
+    background-image: url(assets/Dr3Img.JPG);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    position: relative;
+}
+.blueLine2{
+    background-color: #8EC2F2;			
+    position: absolute;
+    top: 337%;
+    left: 0%;			
+    width: 100%;
+    height: 1.4px;	
+}
