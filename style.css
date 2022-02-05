@@ -5,7 +5,7 @@ body{
 .hero{
     /* position: absolute; */
     width: 100%;
-    height: 817px;
+    height: 770px;
     background-image: url(assets/hero-cover.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -17,7 +17,7 @@ body{
     top: 0;
     left: 0;
     width: 100%;
-    height: 817px;
+    height: 770px;
     background: rgba(56, 39, 39, 0.5);
 }
 .nav{
@@ -208,4 +208,272 @@ body{
     /* primary-color */
     background: #23a6f0;
     border-radius: 5px;
+}
+.bgLeadingMedicine{
+    position: absolute;
+    top: 772px;
+    left: 0px;
+    width: 1701px;
+    height: 1020px;
+    /* primary-color */
+    background: #FFFFFF;
+    /* border-radius: 10px; */
+}
+.LgHeading{
+    position: absolute;
+    color: black;
+    top: 120px;
+    left: 445px;
+    font: 15px Arial, sans-serif;
+    font-size: 120px;
+}
+.Lgsubheading{
+    position: absolute;
+    color: #737373;
+    top: 270px;
+    left: 630px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.Lgsubheading2{
+    position: absolute;
+    color: #737373;
+    top: 300px;
+    left: 530px;
+    line-height: 117%;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+/* Emergency Case */
+.bgEmergencyCase{
+    position: absolute;
+    top: 402px;
+    left: 260px;
+    width: 379px;
+    height: 132px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #8EC2F2;
+}
+.bgWhiteEmergencyCase{
+    position: absolute;
+    top: 21px;
+    left: 30px;
+    width: 89px;
+    height: 92px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: white;
+}
+.EmergencyCaseImg{
+    /* position: absolute; */
+    top: 38px;
+    left: 30px;    
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/EmergencyCaseImg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    /* filter: opacity(0.5); */
+}
+.bgWriteEmergencyCase{
+    position: absolute;
+    top: 55px;
+    left: 130px;
+    color: white;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.bgEmergencyCaseGrayBorder{
+    position: absolute;
+    top: 534px;
+    left: 260px;
+    width: 375px;
+    height: 342px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #FFFFFF;
+    border: 2px solid #A9D6FF;
+    border-radius: 11px;
+}
+.bgECWriteGray{
+    position: absolute;
+    color: #737373;
+    top: 10px;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+    line-height: 35px;
+}
+.bgECWriteLearnMore{
+    position: absolute;
+    color: #23A6F0;
+    top: 284px;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+    line-height: 35px;
+}
+/* Cancer Case */
+.bgCancerCase{
+    position: absolute;
+    top: 402px;
+    left: 660px;
+    width: 379px;
+    height: 132px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #8EC2F2;
+}
+.bgWhiteCancerCase{
+    position: absolute;
+    top: 21px;
+    left: 30px;
+    width: 89px;
+    height: 92px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: white;
+}
+.CancerCaseImg{
+    /* position: absolute; */
+    top: 38px;
+    left: 30px;
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/CancerCaseImg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    /* filter: opacity(0.5); */
+}
+.bgWriteCancerCase{
+    position: absolute;
+    top: 55px;
+    left: 130px;
+    color: white;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.bgCancerCaseGrayBorder{
+    position: absolute;
+    top: 534px;
+    left: 660px;
+    width: 375px;
+    height: 342px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #FFFFFF;
+    border: 2px solid #A9D6FF;
+    border-radius: 11px;
+}
+.bgCCWriteGray{
+    position: absolute;
+    color: #737373;
+    top: 10px;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+    line-height: 35px;
+}
+.bgCCWriteLearnMore{
+    position: absolute;
+    color: #23A6F0;
+    top: 284px;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+    line-height: 35px;
+}
+/* Health Queries */
+.bgHealthQueries{
+    position: absolute;
+    top: 402px;
+    left: 1060px;
+    width: 379px;
+    height: 132px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #8EC2F2;
+}
+.bgWhiteHealthQueries{
+    position: absolute;
+    top: 21px;
+    left: 30px;
+    width: 89px;
+    height: 92px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: white;
+}
+.HealthQuriesImg{
+    /* position: absolute; */
+    top: 38px;
+    left: 30px;
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/HealthQuriesImg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    /* filter: opacity(0.5); */
+}
+.bgWriteHealthQueries{
+    position: absolute;
+    top: 55px;
+    left: 130px;
+    color: white;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.bgHealthQueriesGrayBorder{
+    position: absolute;
+    top: 534px;
+    left: 1060px;
+    width: 375px;
+    height: 342px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #FFFFFF;
+    border: 2px solid #A9D6FF;
+    border-radius: 11px;
+}
+.bgHQWriteGray{
+    position: absolute;
+    color: #737373;
+    top: 10px;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+    line-height: 35px;
+}
+.bgHQWriteLearnMore{
+    position: absolute;
+    color: #23A6F0;
+    top: 284px;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+    line-height: 35px;
+}
+.blueLine{
+    background-color: #8EC2F2;			
+    position: absolute;
+    top: 100%;
+    left: 0%;			
+    width: 100%;
+    height: 1.4px;	
 }
