@@ -657,3 +657,398 @@ body{
     width: 100%;
     height: 1.4px;	
 }
+/* FAQ */
+.bg_faq{
+    position: absolute;
+    top: 2598px;
+    left: 0px;
+    width: 1701px;
+    height: 1020px;
+    /* primary-color */
+    background: #FAFAFA;
+    /* border-radius: 10px; */
+}
+.bg_heading{
+    position: absolute;
+    color: black;
+    top: 120px;
+    left: 776.5px;
+    font: 15px Arial, sans-serif;
+    font-size: 120px;
+}
+.bg_subheading{
+    position: absolute;
+    color: #737373;
+    top: 270px;
+    left: 630px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.bg_subheading2{
+    position: absolute;
+    color: #737373;
+    top: 300px;
+    left: 530px;
+    line-height: 117%;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+/* the quick fox jumps over the lazy dog(1) */
+.card-item1{
+    position: absolute;
+    top: 3034px;
+    left: 260px;
+    width: 375px;
+    height: 160px;
+    background-color: #FFFFFF;
+}
+.vector1{
+    top: 38px;
+    left: 30px;    
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+.flex-row1{
+    position: absolute;
+    color: #737373;
+    top: 0;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.flex-row1>h5{
+    position: relative;
+    color: #737373;
+    top: 0;
+    left: 6px;
+}
+.flex-row1>h6{
+    position: absolute;
+    color: #737373;
+    top: 50px;
+    left: 6px;
+    line-height: 25px;
+}
+/* the quick fox jumps over the lazy dog(2) */
+.card-item2{
+    position: absolute;
+    top: 3034px;
+    left: 660px;
+    width: 375px;
+    height: 160px;
+    background-color: #FFFFFF;
+}
+.vector2{
+    top: 38px;
+    left: 30px;    
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+.flex-row2{
+    position: absolute;
+    color: #737373;
+    top: 0;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.flex-row2>h5{
+    position: relative;
+    color: #737373;
+    top: 0;
+    left: 6px;
+}
+.flex-row2>h6{
+    position: absolute;
+    color: #737373;
+    top: 50px;
+    left: 6px;
+    line-height: 25px;
+}
+/* the quick fox jumps over the lazy dog(3) */
+.card-item3{
+    position: absolute;
+    top: 3034px;
+    left: 1060px;
+    width: 375px;
+    height: 160px;
+    background-color: #FFFFFF;
+}
+.vector3{
+    top: 38px;
+    left: 30px;    
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+.flex-row3{
+    position: absolute;
+    color: #737373;
+    top: 0;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.flex-row3>h5{
+    position: relative;
+    color: #737373;
+    top: 0;
+    left: 6px;
+}
+.flex-row3>h6{
+    position: absolute;
+    color: #737373;
+    top: 50px;
+    left: 6px;
+    line-height: 25px;
+}
+/* the quick fox jumps over the lazy dog(4) */
+.card-item4{
+    position: absolute;
+    top: 3214px;
+    left: 260px;
+    width: 375px;
+    height: 160px;
+    background-color: #FFFFFF;
+}
+.vector4{
+    top: 38px;
+    left: 30px;    
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+.flex-row4{
+    position: absolute;
+    color: #737373;
+    top: 0;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.flex-row4>h5{
+    position: relative;
+    color: #737373;
+    top: 0;
+    left: 6px;
+}
+.flex-row4>h6{
+    position: absolute;
+    color: #737373;
+    top: 50px;
+    left: 6px;
+    line-height: 25px;
+}
+/* the quick fox jumps over the lazy dog(5) */
+.card-item5{
+    position: absolute;
+    top: 3214px;
+    left: 660px;
+    width: 375px;
+    height: 160px;
+    background-color: #FFFFFF;
+}
+.vector5{
+    top: 38px;
+    left: 30px;    
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+.flex-row5{
+    position: absolute;
+    color: #737373;
+    top: 0;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.flex-row5>h5{
+    position: relative;
+    color: #737373;
+    top: 0;
+    left: 6px;
+}
+.flex-row5>h6{
+    position: absolute;
+    color: #737373;
+    top: 50px;
+    left: 6px;
+    line-height: 25px;
+}
+/* the quick fox jumps over the lazy dog(6) */
+.card-item6{
+    position: absolute;
+    top: 3214px;
+    left: 1060px;
+    width: 375px;
+    height: 160px;
+    background-color: #FFFFFF;
+}
+.vector6{
+    top: 38px;
+    left: 30px;    
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+.flex-row6{
+    position: absolute;
+    color: #737373;
+    top: 0;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.flex-row6>h5{
+    position: relative;
+    color: #737373;
+    top: 0;
+    left: 6px;
+}
+.flex-row6>h6{
+    position: absolute;
+    color: #737373;
+    top: 50px;
+    left: 6px;
+    line-height: 25px;
+}
+/* the quick fox jumps over the lazy dog(7) */
+.card-item7{
+    position: absolute;
+    top: 3395px;
+    left: 260px;
+    width: 375px;
+    height: 160px;
+    background-color: #FFFFFF;
+}
+.vector7{
+    top: 38px;
+    left: 30px;    
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+.flex-row7{
+    position: absolute;
+    color: #737373;
+    top: 0;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.flex-row7>h5{
+    position: relative;
+    color: #737373;
+    top: 0;
+    left: 6px;
+}
+.flex-row7>h6{
+    position: absolute;
+    color: #737373;
+    top: 50px;
+    left: 6px;
+    line-height: 25px;
+}
+/* the quick fox jumps over the lazy dog(8) */
+.card-item8{
+    position: absolute;
+    top: 3395px;
+    left: 660px;
+    width: 375px;
+    height: 160px;
+    background-color: #FFFFFF;
+}
+.vector8{
+    top: 38px;
+    left: 30px;    
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+.flex-row8{
+    position: absolute;
+    color: #737373;
+    top: 0;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.flex-row8>h5{
+    position: relative;
+    color: #737373;
+    top: 0;
+    left: 6px;
+}
+.flex-row8>h6{
+    position: absolute;
+    color: #737373;
+    top: 50px;
+    left: 6px;
+    line-height: 25px;
+}/* the quick fox jumps over the lazy dog(9) */
+.card-item9{
+    position: absolute;
+    top: 3395px;
+    left: 1060px;
+    width: 375px;
+    height: 160px;
+    background-color: #FFFFFF;
+}
+.vector9{
+    top: 38px;
+    left: 30px;    
+    width: 24.67px;
+    height: 18.67px;
+    background-image: url(assets/Vector.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+.flex-row9{
+    position: absolute;
+    color: #737373;
+    top: 0;
+    left: 60px;
+    font: 15px Arial, sans-serif;
+    font-size: 25px;
+}
+.flex-row9>h5{
+    position: relative;
+    color: #737373;
+    top: 0;
+    left: 6px;
+}
+.flex-row9>h6{
+    position: absolute;
+    color: #737373;
+    top: 50px;
+    left: 6px;
+    line-height: 25px;
+}
+.blueLine{
+    background-color: #8EC2F2;			
+    position: absolute;
+    top: 279%;
+    left: 0%;			
+    width: 100%;
+    height: 1.4px;	
+}
